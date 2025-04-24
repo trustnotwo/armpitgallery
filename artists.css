@@ -68,8 +68,8 @@
     color: white;
     text-align: center;
     font-family: Arial;
-    max-width: 800px; /* or whatever width feels right */
-    margin: 0 auto;    /* center it horizontally */
+    max-width: 800px; 
+    margin: 0 auto;    
     word-wrap: break-word;
 }
 
@@ -79,6 +79,7 @@
     gap: 30px;
     padding: 20px;
     justify-items: center;
+    justify-content: center;
   }
   
   .artwork-panel {
@@ -92,7 +93,7 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
     width: 100%;
     max-width: 400px;
-    height: 450px; /* consistent height for all cards */
+    height: 420px; 
     box-sizing: border-box;
     text-align: center;
     overflow: hidden;
