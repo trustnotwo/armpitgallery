@@ -1,0 +1,56 @@
+<!--
+        <!-- Artwork 6 -->
+        <div class="artwork-panel">
+          <div class="artwork-img-wrapper">
+            <img src="art/art1.PNG" alt="..." class="artwork-img">
+          </div>
+          <div class="artwork-info">
+            <h3 class="artwork-title">Title of the Artwork</h3>
+            <p class="artwork-artist">by Artist Name</p>
+          </div>
+        </div>
+      
+        <!-- Artwork 7 -->
+        <div class="artwork-panel">
+          <div class="artwork-img-wrapper">
+            <img src="art/art2.PNG" alt="..." class="artwork-img">
+          </div>
+          <div class="artwork-info">
+            <h3 class="artwork-title">Title of the Artwork</h3>
+            <p class="artwork-artist">by Artist Name</p>
+          </div>
+        </div>
+        
+         <!-- Artwork 8 -->
+         <div class="artwork-panel">
+          <div class="artwork-img-wrapper">
+            <img src="art/art3.PNG" alt="..." class="artwork-img">
+          </div>
+          <div class="artwork-info">
+            <h3 class="artwork-title">Title of the Artwork</h3>
+            <p class="artwork-artist">by Artist Name</p>
+          </div>
+        </div>
+  
+        <!-- Artwork 9 -->
+        <div class="artwork-panel">
+          <div class="artwork-img-wrapper">
+            <img src="art/art4.PNG" alt="..." class="artwork-img">
+          </div>
+          <div class="artwork-info">
+            <h3 class="artwork-title">Title of the Artwork</h3>
+            <p class="artwork-artist">by Artist Name</p>
+          </div>
+        </div>
+      
+        <!-- Artwork 10 -->
+        <div class="artwork-panel">
+          <div class="artwork-img-wrapper">
+            <img src="art/art5.PNG" alt="..." class="artwork-img">
+          </div>
+          <div class="artwork-info">
+            <h3 class="artwork-title">Title of the Artwork</h3>
+            <p class="artwork-artist">by Artist Name</p>
+          </div>
+        </div>
+        --
