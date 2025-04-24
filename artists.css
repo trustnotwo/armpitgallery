@@ -92,7 +92,7 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
     width: 100%;
     max-width: 400px;
-    height: 420px; /* consistent height for all cards */
+    height: 450px; /* consistent height for all cards */
     box-sizing: border-box;
     text-align: center;
     overflow: hidden;
